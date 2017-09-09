@@ -1,3 +1,5 @@
+OPEN DISCUSSION FORUM                                                            
+                                                            
                                                             Abstract
                                                                
 It is a question-and-answer site where questions are asked, answered, edited and organized by its community of users. It requires users to register with their real names rather than an Internet pseudonym (screen name), and visitors unwilling to log in or use cookies have had to resort to workarounds to use the site. They can up vote or down vote answers, and suggest edits to extant answers provided by other users. It community includes some well-known people.
