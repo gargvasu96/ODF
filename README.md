@@ -12,7 +12,7 @@ The layout of the site is very similar to Facebook and Twitter, which D’Angelo
 * You are good to go run "localhost/ODF/index.php" in any browser.
 
 
-                                                          Team Members 
+                                                        Team Members 
                                                          
 1. Neeraj Kumar                                          	                                 
 2. Pragya Rajvanshi 						                                              
